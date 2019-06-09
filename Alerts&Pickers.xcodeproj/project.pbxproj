@@ -11,7 +11,6 @@
 		1800C0C122AC94F00099FD77 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1800C0C022AC94F00099FD77 /* BaseViewController.swift */; };
 		1800C0C322AC96F50099FD77 /* DoWhatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1800C0C222AC96F50099FD77 /* DoWhatViewController.swift */; };
 		1800C0C522AC99920099FD77 /* SummaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1800C0C422AC99920099FD77 /* SummaryViewController.swift */; };
-		1800C0C722AC9A110099FD77 /* Form.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1800C0C622AC9A110099FD77 /* Form.swift */; };
 		FA005E922015D769001EA8C6 /* Contacts.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA005E912015D769001EA8C6 /* Contacts.swift */; };
 		FA005E942015E490001EA8C6 /* UISearchBar+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA005E932015E490001EA8C6 /* UISearchBar+Extensions.swift */; };
 		FA005E9620162BB5001EA8C6 /* Assets.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA005E9520162BB5001EA8C6 /* Assets.swift */; };
@@ -78,7 +77,6 @@
 		1800C0C022AC94F00099FD77 /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		1800C0C222AC96F50099FD77 /* DoWhatViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoWhatViewController.swift; sourceTree = "<group>"; };
 		1800C0C422AC99920099FD77 /* SummaryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SummaryViewController.swift; sourceTree = "<group>"; };
-		1800C0C622AC9A110099FD77 /* Form.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Form.swift; sourceTree = "<group>"; };
 		FA005E912015D769001EA8C6 /* Contacts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Contacts.swift; sourceTree = "<group>"; };
 		FA005E932015E490001EA8C6 /* UISearchBar+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UISearchBar+Extensions.swift"; sourceTree = "<group>"; };
 		FA005E9520162BB5001EA8C6 /* Assets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assets.swift; sourceTree = "<group>"; };
@@ -240,7 +238,6 @@
 			children = (
 				FA3BB28A2008B46500E06F8F /* Resources */,
 				FA3BB2AA2008B46800E06F8F /* MainViewController.swift */,
-				1800C0C622AC9A110099FD77 /* Form.swift */,
 				1800C0C022AC94F00099FD77 /* BaseViewController.swift */,
 				1800C0BE22AC89A60099FD77 /* PaymentViewController.swift */,
 				1800C0C222AC96F50099FD77 /* DoWhatViewController.swift */,
@@ -592,7 +589,6 @@
 				FA005E942015E490001EA8C6 /* UISearchBar+Extensions.swift in Sources */,
 				FA3BB2B52008B46800E06F8F /* Date+Extension.swift in Sources */,
 				FA3BB2C02008B46900E06F8F /* DatePickerViewController.swift in Sources */,
-				1800C0C722AC9A110099FD77 /* Form.swift in Sources */,
 				FA4B036C201A119C00D282E2 /* Location.swift in Sources */,
 				FA3BB2AF2008B46800E06F8F /* Label.swift in Sources */,
 				FA005E9620162BB5001EA8C6 /* Assets.swift in Sources */,
